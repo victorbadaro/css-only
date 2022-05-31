@@ -26,4 +26,6 @@ button {
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.4px;
+  background-color: gainsboro;
+  color: #000;
 }
