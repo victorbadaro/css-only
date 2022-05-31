@@ -35,6 +35,42 @@ button.primary {
   color: #fff;
 }
 
+button.secondary {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+button.success {
+  background-color: #198754;
+  color: #fff;
+}
+
+button.danger {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+button.warning {
+  background-color: #ffc107;
+  color: #000;
+}
+
+button.info {
+  background-color: #0dcaf0;
+  color: #000;
+}
+
+button.light {
+  background-color: #f8f9fa;
+  color: #000;
+}
+
+button.dark {
+  background-color: #212529;
+  color: #fff;
+}
+
+/* Outlined buttons */
 button.outlined {
   border: 1px solid;
   background-color: transparent;
@@ -42,4 +78,32 @@ button.outlined {
 
 button.primary.outlined {
   color: #0d6efd;
+}
+
+button.secondary.outlined {
+  color: #6c757d;
+}
+
+button.success.outlined {
+  color: #198754;
+}
+
+button.danger.outlined {
+  color: #dc3545;
+}
+
+button.warning.outlined {
+  color: #ffc107;
+}
+
+button.info.outlined {
+  color: #0dcaf0;
+}
+
+button.light.outlined {
+  color: #f8f9fa;
+}
+
+button.dark.outlined {
+  color: #212529;
 }
