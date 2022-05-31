@@ -29,3 +29,8 @@ button {
   background-color: gainsboro;
   color: #000;
 }
+
+button.outlined {
+  border: 1px solid;
+  background-color: transparent;
+}
