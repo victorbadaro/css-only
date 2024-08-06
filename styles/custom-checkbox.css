@@ -5,6 +5,7 @@
   width: 44px;
   height: 14px;
   border-radius: 20px;
+  cursor: pointer;
   background-color: #262626;
   transition: background-color 200ms;
 }
